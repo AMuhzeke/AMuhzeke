@@ -1,0 +1,33 @@
+ERASE SWITCH
+
+
+delete vlan.dat
+
+press enter 2x
+
+
+erase startup-config
+
+reload
+
+
+
+
+ERASE  ROUTER
+
+
+
+erase  startup-config
+
+
+reload
+
+
+
+
+Look for Switch Config
+
+
+show start
+show flash
+show vlan brief
