@@ -5,4 +5,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on networking projects, and troubleshooting.
 - 🌱 I’m currently learning coding, cybersecurity, PowerShell, and PowerShell: Scripting for Server Administration.
 - 📫 How to reach me: ...https://www.linkedin.com/in/a-muhzeke/
--->
