@@ -1,0 +1,30 @@
+import requests
+
+def reset_switch(ip_address, username, password):
+    # Replace these values with your switch's details
+    switch_url = f"http://{ip_address}/"
+    login_url = f"{switch_url}login"
+    reset_url = f"{switch_url}reset"
+
+    # Session object to persist the login session
+    session = requests.Session()
+
+    # Perform login
+    login_data = {"username": username, "password": password}
+    session.post(login_url, data=login_data)
+
+    # Reset the switch (replace with the actual reset endpoint for your switch)
+    reset_response = session.get(reset_url)
+
+    # Check if the reset was successful
+    if reset_response.status_code == 200:
+        print("Switch reset successful.")
+    else:
+        print(f"Error resetting switch. Status code: {reset_response.status_code}")
+
+# Replace these values with your switch's details
+ip_address = "192.168.1.1"
+username = "your_username"
+password = "your_password"
+
+reset_switch(ip_address, username, password)
