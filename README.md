@@ -3,11 +3,12 @@
 - 📫 How to reach me: https://www.linkedin.com/in/a-muhzeke/
   
   My Key Projects
-  Network Design number 2:
+  
+  Network Design:
   https://github.com/AMuhzeke/AMuhzeke/blob/main/Network%20Design%20number%202.doc
-  RIPv2 Network Project:
+  RIPv2 Network:
   https://github.com/AMuhzeke/AMuhzeke/blob/main/RIPv2%20Project.docx
-  Time Zone Check Power Shell Code:
+  TimeZoneCheck Power Shell Code:
   https://github.com/AMuhzeke/AMuhzeke/blob/main/TimeZoneCheck.ps1
-  Erase Network Switch Code:
+  Erase Switch Code:
   https://github.com/AMuhzeke/AMuhzeke/blob/main/switch_erase_config.json
