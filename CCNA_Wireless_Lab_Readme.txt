@@ -1,7 +1,7 @@
 
 # CCNA 3-Tier IPv4/IPv6 with Wireless Packet Tracer Lab
 
-**Lab Author:** Anthony Mazyck II  
+**Lab Author:** Anthony Mazyck   
 **Credit:** Based on East Charmer's video walkthrough: https://youtu.be/4hisEIlSv0g?si=wiz2X4k6lTKK_j_K  
 **Channel:** https://www.youtube.com/@EastCharmer
 
